@@ -1,3 +1,6 @@
+-- yandere dev type code lol 
+-- 2025
+
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The Lua Crash has been started, for everybody's client crash, use the Backdoor Executor or FilteringDisabled Executor to crash everyone.","All")
 wait(30)
 print('LUA CRASH ENABLED!!!')
